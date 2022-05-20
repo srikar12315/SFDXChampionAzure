@@ -1,0 +1,31 @@
+{
+  "orgName": "SFDXCgampion2",
+  "edition": "Enterprise",
+  "release__c" : "Test1",
+  "features": [
+    "Communities",
+    "MultiCurrency" , 
+    "ContactsToMultipleAccounts",
+    "CascadeDelete",
+    "Communities",
+    "PersonAccounts",
+    "StateAndCountryPicklist",
+    "Entitlements",
+    "LiveAgent"
+],
+
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+  },
+  "caseSettings": {
+    "systemUserEmail": "srini.sfdc16.sfdx.champion@gmail.com"
+},
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
